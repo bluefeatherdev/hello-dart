@@ -2,11 +2,11 @@
 // ignore_for_file: dead_code
 void main() {
   /* 
-    * condition  ?  expr1  :  expr2
+    * condition ? expr1 : expr2
     * If condition is true, evaluates expr1 (and returns its value); 
     * otherwise, evaluates and returns the value of expr2.
 
-    * expr1  ??  expr2
+    * expr1 ?? expr2
     * If expr1 is non-null, returns its value; 
     * otherwise, evaluates and returns the value of expr2.
   */

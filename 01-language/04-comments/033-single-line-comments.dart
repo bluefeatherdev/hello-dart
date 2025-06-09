@@ -1,5 +1,5 @@
 // Comments in Dart
 void main() {
-  // TODO: refactor into and AbstractLlamaGreetingFactory?
+  // DONE: refactor into and AbstractLlamaGreetingFactory?
   print('Welcome to my Llama farm!');
 }

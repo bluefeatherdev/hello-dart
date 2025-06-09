@@ -1,6 +1,6 @@
 // Enums in Dart
 
-/// Enum that defines a simple list of predifined planet types.
+/// Enum that defines a simple list of predefined planet types.
 enum PlanetType { terrestrial, gas, ice }
 
 /// Enum that enumerates the differents planets in our solar system

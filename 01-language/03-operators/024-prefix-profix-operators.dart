@@ -1,10 +1,10 @@
 // Operators in Dart
 void main() {
   /* 
-    * ++var	: var = var + 1 (expression value is var + 1)
-    * var++	: var = var + 1 (expression value is var)
-    * --var	: var = var - 1 (expression value is var - 1)
-    * var--	: var = var - 1 (expression value is var)
+    * ++var : var = var + 1 (expression value is var + 1)
+    * var++ : var = var + 1 (expression value is var)
+    * --var : var = var - 1 (expression value is var - 1)
+    * var-- : var = var - 1 (expression value is var)
   */
 
   /// `assert(condition)` throws an exception 

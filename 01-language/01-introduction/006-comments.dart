@@ -6,7 +6,7 @@ void main() {
   // This is a normal, on-line comment.
 
   /// This is a documentation comment, used to document libraries,
-  /// classes, and thir members. Tools like IDEs and dartdoc treat
+  /// classes, and their members. Tools like IDEs and dartdoc treat
   /// doc comments specially.
   
   /* Comments like these are also supported */

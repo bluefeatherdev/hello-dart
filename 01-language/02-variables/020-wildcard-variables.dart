@@ -23,7 +23,7 @@ void main() {
   }
 
   // Function parameters
-  // Foo(_, this._, super._, void _()) {} // Use it in clasess...
+  // Foo(_, this._, super._, void _()) {} // Use it in classes...
 
   // list.where((_) => true);
 

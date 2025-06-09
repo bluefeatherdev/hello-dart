@@ -11,7 +11,7 @@ class Spacecraft {
     // Initialization code goes here.
   }
 
-  // Named constructor that fowards to the main defalt one.
+  // Named constructor that forwards to the main default one.
   Spacecraft.unlaunched(String name) : this(name, null);
 
   // Method.

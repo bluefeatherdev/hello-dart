@@ -2,9 +2,9 @@
 void main() {
   /* 
     * Compound assignment operators:
-    * =	*=	%=	>>>=	^=
-    * +=	/=	<<=	&=	|=
-    * -=	~/=	>>=
+    * = *= %= >>>= ^=
+    * += /= <<= &= |=
+    * -= ~/= >>=
 
     * For an operator op:
     * a op= b	: a = a op b

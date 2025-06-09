@@ -1,14 +1,14 @@
 // Operators in Dart
 void main() {
   /* 
-    * +	: Add
-    * -	: Subtract
+    * +     : Add
+    * -     : Subtract
     * -expr : Unary minus, also known as negation 
     *         (reverse the sign of the expression)
-    * *	: Multiply
-    * / : Divide
-    * ~/ : Divide, returning an integer result
-    * %	: Get the remainder of an integer division (modulo)
+    * *     : Multiply
+    * /     : Divide
+    * ~/    : Divide, returning an integer result
+    * %     : Get the remainder of an integer division (modulo)
   */
 
   /// `assert(condition)` throws an exception 

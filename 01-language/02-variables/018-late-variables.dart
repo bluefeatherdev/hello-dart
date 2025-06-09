@@ -4,7 +4,7 @@
 // later than their declaration.
 late String message;
 
-// Laizy initialization
+// Lazy initialization
 // - The variable might not be needed, 
 // and initializing it is costly.
 // - You're initializing an instance variable, 
