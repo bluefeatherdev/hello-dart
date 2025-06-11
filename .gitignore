@@ -1,0 +1,5 @@
+# This directory contains generated and temporary files
+.dart_tool
+
+# This directory contains generated configuration files 
+.vscode

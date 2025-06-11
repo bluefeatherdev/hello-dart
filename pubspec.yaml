@@ -1,0 +1,10 @@
+name: hello_dart
+
+description: >-
+  Hello World! This is Dart! {'🌿🖥️'};
+
+environment:
+  sdk: '^3.8.0'
+  
+dependencies:
+  characters: ^1.4.0
