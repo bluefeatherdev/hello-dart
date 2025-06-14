@@ -74,7 +74,6 @@ void main() {
   print(a); // Prints: [1, 2, null, 4]
   print(items2);  // Prints: [0, 1, 2, null, 4, 5]
 
-
   // ----------------- //
 
   /// Null-aware spread elements:
@@ -265,7 +264,9 @@ void main() {
   //   if (condition) ...[multiple(), things()],
   // ];  // [oneThing, [multiple_a, multiple_b], things]
 
-  /// ...
+  /// You can nest all kinds of elements arbitrarily deep
+  /// [if], [for] and [spread] elements are nested 
+  /// within each other in a collection:
   var nestItems = true;
   var ys = [1, 2, 3, 4];
   var items15 = [
