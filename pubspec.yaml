@@ -8,3 +8,4 @@ environment:
   
 dependencies:
   characters: ^1.4.0
+  color: ^3.0.0
