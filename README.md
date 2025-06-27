@@ -11,7 +11,7 @@ Este repositorio es mi espacio de estudio personal para aprender y practicar el 
 Archivos y ejemplos organizados para entender:
 - Sintaxis y estructuras básicas (`variables/`, `control-flow/`, `functions/`)
 - Programación orientada a objetos (`classes-&-objects/`)
-- Funciones de alto orden, colecciones y tipos (`loops/`, `branches/`, types/`)
+- Funciones de alto orden, colecciones y tipos (`loops/`, `branches/`, `types/`)
 - Asincronía con `async/await`, `Future` y `Stream`
 - Null safety y buenas prácticas
 
