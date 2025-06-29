@@ -19,6 +19,7 @@ Archivos y ejemplos organizados para entender:
 - Experimentación libre de conceptos nuevos
 - Fragmentos de código útiles o curiosos
 - Anotaciones breves sobre comportamientos del lenguaje
+- Encuéntralos en `pruebas/`
 
 ### 3. Retos de programación
 - Soluciones a ejercicios y retos propuestos por la **comunidad hispana**
