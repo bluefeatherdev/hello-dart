@@ -22,7 +22,7 @@ Archivos y ejemplos organizados para entender:
 - Encuéntralos en `pruebas/`
 
 ### 3. Retos de programación
-- Soluciones a ejercicios y retos propuestos por la **comunidad hispana**
+- Soluciones a ejercicios y retos propuestos por la **comunidad hispana** (by [mouredev](https://retosdeprogramacion.com/roadmap/))
 - Enunciados traducidos (si es necesario) y explicaciones propias
 - Carpeta: `retos-de-programacion/`
 
