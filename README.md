@@ -14,12 +14,13 @@ Archivos y ejemplos organizados para entender:
 - Funciones de alto orden, colecciones y tipos (`loops/`, `branches/`, `types/`)
 - Asincronía con `async/await`, `Future` y `Stream`
 - Null safety y buenas prácticas
+- Carpeta: `language/`
 
 ### 2. Pruebas personales
 - Experimentación libre de conceptos nuevos
 - Fragmentos de código útiles o curiosos
 - Anotaciones breves sobre comportamientos del lenguaje
-- Encuéntralos en `pruebas/`
+- Carpeta: `pruebas/`
 
 ### 3. Retos de programación
 - Soluciones a ejercicios y retos propuestos por la **comunidad hispana** (by [mouredev](https://retosdeprogramacion.com/roadmap/))
