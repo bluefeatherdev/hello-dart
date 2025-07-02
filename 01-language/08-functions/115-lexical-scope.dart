@@ -1,4 +1,4 @@
-// Dart Functions: Functions
+/// Dart Functions
 
 /// Dart determines the scope of variables based on the layout of its code. 
 /// A programming language with this feature is termed a lexically scoped language. 

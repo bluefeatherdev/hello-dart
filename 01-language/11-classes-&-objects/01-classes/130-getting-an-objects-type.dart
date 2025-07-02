@@ -1,4 +1,4 @@
-// Dart Functions: Classes & objects
+/// Dart Classes & Objects: Classes
 
 // ignore_for_file: unnecessary_type_check
 

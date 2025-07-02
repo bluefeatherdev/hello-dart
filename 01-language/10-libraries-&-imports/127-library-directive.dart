@@ -1,4 +1,4 @@
-// Dart Functions: Libraries & imports
+/// Dart Libraries & Imports
 
 /// To specify library-level [doc comments] or [metadata annotations], 
 /// attach them to a `library` declaration at the start of the file.

@@ -1,4 +1,4 @@
-// Dart Functions: Libraries & imports
+/// Dart Libraries & Imports
 
 /// If you want to use only part of a library, 
 /// you can selectively import the library. 

@@ -1,4 +1,4 @@
-// Dart Functions: Functions
+/// Dart Functions
 
 /// A function object that can access variables in its lexical scope
 /// when the function sits outside that scope is called a [closure].

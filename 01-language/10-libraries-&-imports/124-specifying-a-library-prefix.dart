@@ -1,4 +1,4 @@
-// Dart Functions: Libraries & imports
+/// Dart Libraries & Imports
 
 /// If you import two libraries that have conflicting identifiers, 
 /// then you can specify a prefix for one or both libraries. 

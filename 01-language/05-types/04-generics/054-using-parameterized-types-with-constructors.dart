@@ -1,4 +1,4 @@
-// Types: Generics in Dart
+// Dart Types: Generics
 void main() {
   /// To specify one or more types when using a constructor, 
   /// put the types in angle brackets (`<...>`) 

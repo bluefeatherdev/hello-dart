@@ -1,4 +1,4 @@
-// Types: Generics in Dart
+// Dart Types: Generics
 
 // You discover that you want a string-specific version 
 // of this interface, so you create another interface:

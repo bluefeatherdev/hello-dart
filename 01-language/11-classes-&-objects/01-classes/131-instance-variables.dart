@@ -1,4 +1,4 @@
-// Dart Functions: Classes & objects
+/// Dart Classes & Objects: Classes
 
 /// Here's how you declare instance variables:
 /// ```dart

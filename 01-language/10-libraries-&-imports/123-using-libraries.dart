@@ -1,4 +1,4 @@
-// Dart Functions: Libraries & imports
+/// Dart Libraries & Imports
 
 /// Use `import` to specify how a namespace from one library 
 /// is used in the scope of another library.

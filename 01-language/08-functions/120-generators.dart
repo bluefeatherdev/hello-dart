@@ -1,4 +1,4 @@
-// Dart Functions: Functions
+/// Dart Functions
 
 /// When you need to lazily produce a sequence of values, 
 /// consider using a [generator function]. Dart has built-in support 

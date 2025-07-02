@@ -1,4 +1,5 @@
-// Dart Functions: Functions
+/// Dart Functions
+
 void main() {  
   /// When you refer to a function, method, or named constructor without parentheses, 
   /// Dart creates a tear-off. This is a closure that takes the same parameters as 

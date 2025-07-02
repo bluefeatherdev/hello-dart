@@ -1,4 +1,4 @@
-// Types: Generics in Dart
+// Dart Types: Generics
 void main() {
   /// List, set, and map literals can be parameterized:
   var names = <String>['Seth', 'Kathy', 'Lars'];

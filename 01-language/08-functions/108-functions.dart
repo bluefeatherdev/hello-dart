@@ -1,4 +1,4 @@
-// Dart Functions: Functions
+/// Dart Functions
 
 // Here's an example of implementing a function:
 final _nobleGases = {

@@ -27,7 +27,7 @@ void main() {
 
   a = 0;
   b = a--;  // Decrement a after b gets its value.
-  assert(a == b); // -1 == -1
+  assert(a == b); // 0 == -1
 
   print('Hello, Dart!');
 }

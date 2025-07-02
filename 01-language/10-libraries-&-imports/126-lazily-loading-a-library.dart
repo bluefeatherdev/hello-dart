@@ -1,4 +1,4 @@
-// Dart Functions: Libraries & imports
+/// Dart Libraries & Imports
 
 /// [Deferred loading] (also called [lazy loading]) 
 /// allows a web app to load a library on demand, 

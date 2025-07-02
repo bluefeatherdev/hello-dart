@@ -1,4 +1,4 @@
-// Dart Functions: Functions
+/// Dart Functions
 
 /// You can specify the type of a function, which is known as a 
 /// [function type]. A function type is obtained from a function declaration 

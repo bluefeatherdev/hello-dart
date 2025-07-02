@@ -1,4 +1,4 @@
-// Dart Functions: Functions
+/// Dart Functions
 
 /// You can pass a function as a parameter to another function. 
 /// For example:

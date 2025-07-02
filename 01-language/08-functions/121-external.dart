@@ -1,4 +1,4 @@
-// Dart Functions: Functions
+/// Dart Functions
 
 /// An external function is a function whose body is implemented separately from its declaration. 
 /// Include the `external` keyword before a function declaration, like so:

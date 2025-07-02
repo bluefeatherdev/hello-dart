@@ -1,4 +1,4 @@
-// Dart Functions: Functions
+/// Dart Functions
 
 /// Though you name most functions, such as `main()` or `printElement()`, 
 /// you can also create functions without names. 

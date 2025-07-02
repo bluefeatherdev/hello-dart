@@ -1,4 +1,4 @@
-// Dart Functions: Functions
+/// Dart Functions
 
 /// Every app must have a top-level `main()` function, 
 /// which serves as the entrypoint to the app. 

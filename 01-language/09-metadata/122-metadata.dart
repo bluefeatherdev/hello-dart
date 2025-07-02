@@ -1,4 +1,4 @@
-// Dart Functions: Metadata
+/// Dart Metadata
 
 /// Use metadata to give additional information about your code. 
 /// A metadata annotation begins with the character `@`, followed by 

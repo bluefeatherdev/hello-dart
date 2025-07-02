@@ -1,4 +1,4 @@
-// Dart Functions: Classes & objects
+/// Dart Classes & Objects: Classes
 
 /// Every class implicitly defines an interface containing 
 /// all the instance members of the class and of any interfaces 

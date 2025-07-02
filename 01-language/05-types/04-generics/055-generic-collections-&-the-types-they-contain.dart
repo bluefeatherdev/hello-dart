@@ -1,4 +1,4 @@
-// Types: Generics in Dart
+// Dart Types: Generics
 // ignore_for_file: unnecessary_type_check
 void main() {
   /// Dart generic types are [reified], which means 

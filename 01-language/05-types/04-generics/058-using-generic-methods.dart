@@ -1,4 +1,4 @@
-// Types: Generics in Dart
+// Dart Types: Generics
 void main() {
   /// Methods and functions also allow type arguments:
   T first<T>(List<T> ts) {

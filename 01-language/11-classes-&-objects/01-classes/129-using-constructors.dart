@@ -1,4 +1,4 @@
-// Dart Functions: Classes & objects
+/// Dart Classes & Objects: Classes
 
 // Point class:
 class Point {

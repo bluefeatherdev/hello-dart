@@ -1,4 +1,4 @@
-// Dart Functions: Functions
+/// Dart Functions
 
 /// Wrapping a set of function parameters in `[]` marks them as 
 /// optional positional parameters. If you don't provide a default value, 

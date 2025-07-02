@@ -1,4 +1,4 @@
-// Dart Functions: Functions
+/// Dart Functions
 
 /// Here's an example of testing top-level functions, 
 /// static methods, and instance methods for equality:

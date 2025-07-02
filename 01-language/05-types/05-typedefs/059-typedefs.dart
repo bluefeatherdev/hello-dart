@@ -1,4 +1,4 @@
-// Types: Typedefs in Dart
+// Dart Types: Typedefs
 // ignore_for_file: unnecessary_type_check
 
 /// Here's an example of declaring and using 

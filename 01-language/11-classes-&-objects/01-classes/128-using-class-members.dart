@@ -1,4 +1,4 @@
-// Dart Functions: Classes & objects
+/// Dart Classes & Objects: Classes
 
 /// Objects have [members] consisting of functions and data 
 /// ([methods] and [instance variables], respectively). 

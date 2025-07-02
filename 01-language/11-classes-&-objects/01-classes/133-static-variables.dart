@@ -1,4 +1,4 @@
-// Dart Functions: Classes & objects
+/// Dart Classes & Objects: Classes
 
 /// Use the `static` keyword 
 /// to implement class-wide variables and methods.

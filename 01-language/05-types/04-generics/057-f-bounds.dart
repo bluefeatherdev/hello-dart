@@ -1,4 +1,4 @@
-// Types: Generics in Dart
+// Dart Types: Generics
 
 /// When using [bounds] to restrict parameter types, 
 /// you can refer the bound back to the type parameter itself. 

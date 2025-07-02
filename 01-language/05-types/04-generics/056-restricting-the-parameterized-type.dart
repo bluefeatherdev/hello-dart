@@ -1,4 +1,4 @@
-// Types: Generics in Dart
+// Dart Types: Generics
 
 /// A common use case is ensuring that a type is non-nullable 
 /// by making it a subtype of [Object] 
