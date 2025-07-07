@@ -1,4 +1,4 @@
-/// Pruebas personales: [Obtener mixins y superclases] de una clase
+/// Pruebas personales: [Obtener mixins y superclase] de una clase base
 import 'dart:mirrors';
 
 // Superclass
@@ -26,7 +26,7 @@ void main() {
   // Last superclass "named"
   final superClass = current?.reflectedType.toString();
 
-  // Analyze the confused name (mixins)
+  // Analyze the obfuscated mixin names
   final fullName = typeChain.firstWhere(
     (name) => name.contains('&'),
     orElse: () => '',

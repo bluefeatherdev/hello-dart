@@ -26,7 +26,7 @@ MixinAnalysis analyzeClassMixins(Type type) {
     current = current.superclass;
   }
 
-  // Nominal superclass (outside the confusing mixins)
+  // Nominal superclass (outside the obfuscated mixins)
   final superClass = current?.reflectedType.toString();
 
   // Find the compound name generated
