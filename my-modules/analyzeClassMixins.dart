@@ -1,4 +1,4 @@
-/// Get Superclass & used Mixins from a Class Base
+/// Get Superclass & used Mixins from a Base Class
 /// Using: [dart:mirrors]
 
 import 'dart:mirrors';
