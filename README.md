@@ -27,6 +27,11 @@ Archivos y ejemplos organizados para entender:
 - Enunciados traducidos (si es necesario) y explicaciones propias
 - Carpeta: `retos-de-programacion/`
 
+### 4. Módulos experimentales
+- Clases y funciones como piezas intercambiables
+- Scripts experimentales importables
+- Carpeta: `my-modules`
+
 ## Objetivo
 
 - Consolidar mi conocimiento de **Dart** desde la base
@@ -35,4 +40,5 @@ Archivos y ejemplos organizados para entender:
 
 > [!IMPORTANT]
 > Este repositorio está en constante crecimiento. Las carpetas se irán completando con ejemplos, notas y mejoras progresivamente.
-> > Hello World! '\u{2665}'
+
+> Hello World! '\u{2665}'
