@@ -1,7 +1,7 @@
 name: hello_dart
 
 description: >-
-  Hello World! This is Dart! {'🌿🖥️'};
+  Aprendiendo Dart desde cero: sintaxis, pruebas personales y retos de programación.
 
 environment:
   sdk: '^3.8.0'
@@ -9,3 +9,4 @@ environment:
 dependencies:
   characters: ^1.4.0
   color: ^3.0.0
+  meta: ^1.17.0
