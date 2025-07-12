@@ -1,6 +1,6 @@
 # Hello, Dart! 
 
-![Language: Dart](https://img.shields.io/badge/language-Dart-blue?logo=dart&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=Dart)
 
 Este repositorio es mi espacio de estudio personal para aprender y practicar el lenguaje **Dart**, paso a paso.
 
