@@ -4,7 +4,7 @@
 
 Este repositorio es mi espacio de estudio personal para aprender y practicar el lenguaje **Dart**, paso a paso.
 
-## ¿Qué encontrarás?
+## 🔎 ¿Qué encontrarás?
 
 ### 1. Aprendizaje estructurado
 
@@ -32,7 +32,7 @@ Archivos y ejemplos organizados para entender:
 - Scripts experimentales importables
 - Carpeta: `my-modules`
 
-## Objetivo
+## 🎯 Objetivo
 
 - Consolidar mi conocimiento de **Dart** desde la base
 - Prepararme para desarrollar con **Flutter** con mayor confianza
