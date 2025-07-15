@@ -6,7 +6,7 @@ Este repositorio es mi espacio de estudio personal para aprender y practicar el 
 
 ## 🔎 ¿Qué encontrarás?
 
-### 1️⃣ Aprendizaje estructurado 🗂️ 
+### Aprendizaje estructurado 🗂️ 
 
 Archivos y ejemplos organizados para entender:
 - Sintaxis y estructuras básicas (`variables/`, `control-flow/`, `functions/`)
@@ -16,23 +16,23 @@ Archivos y ejemplos organizados para entender:
 - Null safety y buenas prácticas
 - Carpeta: `language/`
 
-### 2️⃣ Pruebas personales 🧪
+### Pruebas personales 🧪
 - Experimentación libre de conceptos nuevos
 - Fragmentos de código útiles o curiosos
 - Anotaciones breves sobre comportamientos del lenguaje
 - Carpeta: `pruebas/`
 
-### 3️⃣ Retos de programación 🥇
+### Retos de programación 🥇
 - Soluciones a ejercicios y retos propuestos por la **comunidad hispana** (by [mouredev](https://retosdeprogramacion.com/roadmap/))
 - Enunciados traducidos (si es necesario) y explicaciones propias
 - Carpeta: `retos-de-programacion/`
 
-### 4️⃣ Módulos experimentales 🔬
+### Módulos experimentales 🔬
 - Clases y funciones como piezas intercambiables
 - Scripts experimentales importables
 - Carpeta: `my-modules`
 
-## 🎯 Objetivo
+## 🎯 Objetivos del repositorio
 
 - Consolidar mi conocimiento de **Dart** desde la base
 - Prepararme para desarrollar con **Flutter** con mayor confianza
