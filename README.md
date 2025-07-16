@@ -6,7 +6,7 @@ Este repositorio es mi espacio de estudio personal para aprender y practicar el 
 
 ## 🔎 ¿Qué encontrarás?
 
-### Aprendizaje estructurado 🗂️ 
+### 🗂️ Aprendizaje estructurado  
 
 Archivos y ejemplos organizados para entender:
 - Sintaxis y estructuras básicas (`variables/`, `control-flow/`, `functions/`)
@@ -16,18 +16,18 @@ Archivos y ejemplos organizados para entender:
 - Null safety y buenas prácticas
 - Carpeta: `language/`
 
-### Pruebas personales 🧪
+### 🧪 Pruebas personales 
 - Experimentación libre de conceptos nuevos
 - Fragmentos de código útiles o curiosos
 - Anotaciones breves sobre comportamientos del lenguaje
 - Carpeta: `pruebas/`
 
-### Retos de programación 🥇
+### 🥇 Retos de programación 
 - Soluciones a ejercicios y retos propuestos por la **comunidad hispana** (by [mouredev](https://retosdeprogramacion.com/roadmap/))
 - Enunciados traducidos (si es necesario) y explicaciones propias
 - Carpeta: `retos-de-programacion/`
 
-### Módulos experimentales 🔬
+### 🔬 Módulos experimentales 
 - Clases y funciones como piezas intercambiables
 - Scripts experimentales importables
 - Carpeta: `my-modules`
@@ -38,7 +38,6 @@ Archivos y ejemplos organizados para entender:
 - Prepararme para desarrollar con **Flutter** con mayor confianza
 - Aprender resolviendo problemas **reales** y aplicando lo aprendido
 
-> [!IMPORTANT]
 > Este repositorio está en constante crecimiento. Las carpetas se irán completando con ejemplos, notas y mejoras progresivamente.
 
 > Hello World! '\u{2665}'
