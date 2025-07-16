@@ -11,6 +11,7 @@ Este repositorio es mi espacio de estudio personal para aprender y practicar el 
 ### 🗂️ Aprendizaje estructurado  
 
 - Sintaxis y estructuras básicas (`variables/`, `control-flow/`, `functions/`)
+
 - Programación orientada a objetos (`classes-&-objects/`)
 - Funciones de alto orden, colecciones y tipos (`loops/`, `branches/`, `types/`)
 - Asincronía con `async/await`, `Future` y `Stream`
@@ -19,23 +20,27 @@ Este repositorio es mi espacio de estudio personal para aprender y practicar el 
 
 ### 🧪 Pruebas personales 
 - Experimentación libre de conceptos nuevos
+
 - Fragmentos de código útiles o curiosos
 - Anotaciones breves sobre comportamientos del lenguaje
 - Carpeta: `pruebas/`
 
 ### 🥇 Retos de programación 
 - Soluciones a ejercicios y retos propuestos por la **comunidad hispana** (by [mouredev](https://retosdeprogramacion.com/roadmap/))
+
 - Enunciados traducidos (si es necesario) y explicaciones propias
 - Carpeta: `retos-de-programacion/`
 
 ### 🔬 Módulos experimentales 
 - Clases y funciones como piezas intercambiables
+
 - Scripts experimentales importables
 - Carpeta: `my-modules`
 
 ## 🎯 Objetivos del repositorio
 
 - Consolidar mi conocimiento de **Dart** desde la base
+
 - Prepararme para desarrollar con **Flutter** con mayor confianza
 - Aprender resolviendo problemas **reales** y aplicando lo aprendido
 
