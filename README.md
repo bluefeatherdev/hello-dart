@@ -4,6 +4,8 @@
 
 Este repositorio es mi espacio de estudio personal para aprender y practicar el lenguaje **Dart**, paso a paso.
 
+> Este repositorio está en constante crecimiento. Las carpetas se irán completando con ejemplos, notas y mejoras progresivamente.
+
 ## 🔎 ¿Qué encontrarás?
 
 ### 🗂️ Aprendizaje estructurado  
@@ -37,7 +39,5 @@ Archivos y ejemplos organizados para entender:
 - Consolidar mi conocimiento de **Dart** desde la base
 - Prepararme para desarrollar con **Flutter** con mayor confianza
 - Aprender resolviendo problemas **reales** y aplicando lo aprendido
-
-> Este repositorio está en constante crecimiento. Las carpetas se irán completando con ejemplos, notas y mejoras progresivamente.
 
 > Hello World! '\u{2665}'
