@@ -6,12 +6,6 @@ Este repositorio es mi espacio de estudio personal para aprender y practicar el 
 
 > Este repositorio está en constante crecimiento. Las carpetas se irán completando con ejemplos, notas y mejoras progresivamente.
 
-## 🎯 Objetivos del repositorio
-
-- Consolidar mi conocimiento de **Dart** desde la base
-- Prepararme para desarrollar con **Flutter** con mayor confianza
-- Aprender resolviendo problemas **reales** y aplicando lo aprendido
-
 ## 🔎 ¿Qué encontrarás?
 
 ### 🗂️ Aprendizaje estructurado  
@@ -39,5 +33,10 @@ Este repositorio es mi espacio de estudio personal para aprender y practicar el 
 - Scripts experimentales importables
 - Carpeta: `my-modules`
 
+## 🎯 Objetivos del repositorio
+
+- Consolidar mi conocimiento de **Dart** desde la base
+- Prepararme para desarrollar con **Flutter** con mayor confianza
+- Aprender resolviendo problemas **reales** y aplicando lo aprendido
 
 > Hello World! '\u{2665}'
