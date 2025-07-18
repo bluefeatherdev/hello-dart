@@ -9,4 +9,6 @@ environment:
 dependencies:
   characters: ^1.4.0
   color: ^3.0.0
+  file: ^7.0.1
+  http: ^1.4.0
   meta: ^1.17.0
