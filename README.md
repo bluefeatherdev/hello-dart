@@ -4,6 +4,8 @@
 
 Este repositorio es mi espacio de estudio personal para aprender y practicar el lenguaje **Dart**, paso a paso.
 
+![](./images/header.png)
+
 > Este repositorio está en constante crecimiento. Las carpetas se irán completando con ejemplos, notas y mejoras progresivamente.
 
 ## 🔎 ¿Qué encontrarás?
