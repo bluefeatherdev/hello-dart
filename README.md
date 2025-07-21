@@ -25,7 +25,7 @@ Este repositorio es mi espacio de estudio personal para aprender y practicar el 
 
 - Fragmentos de código útiles o curiosos
 - Anotaciones breves sobre comportamientos del lenguaje
-- Carpeta: [`pruebas/`](./pruebas/)
+- Carpeta: [`playground/`](./playground/)
 
 ### 🥇 Retos de programación 
 - Soluciones a ejercicios y retos propuestos por la **comunidad hispana** (by [mouredev](https://retosdeprogramacion.com/roadmap/))
