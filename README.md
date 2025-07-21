@@ -46,4 +46,4 @@ Este repositorio es mi espacio de estudio personal para aprender y practicar el 
 - Prepararme para desarrollar con **Flutter** con mayor confianza
 - Aprender resolviendo problemas **reales** y aplicando lo aprendido
 
-> Hello World! '\u{2665}'
+> Made with '\u{2665}' (♥)
