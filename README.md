@@ -18,26 +18,26 @@ Este repositorio es mi espacio de estudio personal para aprender y practicar el 
 - Funciones de alto orden, colecciones y tipos (`loops/`, `branches/`, `types/`)
 - Asincronía con `async/await`, `Future` y `Stream`
 - Null safety y buenas prácticas
-- Carpeta: `language/`
+- Carpeta: [`language/`](./language/)
 
 ### 🧪 Pruebas personales 
 - Experimentación libre de conceptos nuevos
 
 - Fragmentos de código útiles o curiosos
 - Anotaciones breves sobre comportamientos del lenguaje
-- Carpeta: `pruebas/`
+- Carpeta: [`pruebas/`](./pruebas/)
 
 ### 🥇 Retos de programación 
 - Soluciones a ejercicios y retos propuestos por la **comunidad hispana** (by [mouredev](https://retosdeprogramacion.com/roadmap/))
 
 - Enunciados traducidos (si es necesario) y explicaciones propias
-- Carpeta: `retos-de-programacion/`
+- Carpeta: [`retos-de-programacion/`](./retos-de-programacion/)
 
 ### 🔬 Módulos experimentales 
 - Clases y funciones como piezas intercambiables
 
 - Scripts experimentales importables
-- Carpeta: `my-modules`
+- Carpeta: [`my-modules`](./my-modules/)
 
 ## 🎯 Objetivos del repositorio
 
