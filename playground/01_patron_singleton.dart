@@ -1,4 +1,4 @@
-/// Pruebas personales: [Patrón Singleton]
+/// Playground: [Singleton Pattern]
 
 /*
 * ¿Qué es el patrón Singleton?

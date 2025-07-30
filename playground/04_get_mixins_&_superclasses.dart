@@ -1,4 +1,4 @@
-/// Pruebas personales: [Obtener mixins y superclase] de una clase base
+/// Playground: [Get Mixins and Superclass]
 import 'dart:mirrors';
 
 // Superclass

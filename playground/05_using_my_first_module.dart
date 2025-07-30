@@ -1,5 +1,4 @@
-/// Pruebas personales: [Obtener mixins y superclase] de una clase base
-/// Usando mi primer módulo de Dart `analyzeClassMixins`:
+/// Playground: [Using My First Module]
 
 import '../my-modules/analyzeClassMixins.dart';
 

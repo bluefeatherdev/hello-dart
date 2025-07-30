@@ -1,4 +1,4 @@
-/// Pruebas personales: [Initializer list] en constructores
+/// Playground: [Initializer List]
 
 /*
 * ¿Qué es la initializer list?

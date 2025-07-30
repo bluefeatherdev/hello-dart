@@ -1,4 +1,4 @@
-/// Pruebas personales: [Constructor Tear-offs]
+/// Playground: [Tear-offs Constructor]
 
 /*
 * ¿Qué es el Constructor Tear-off?
