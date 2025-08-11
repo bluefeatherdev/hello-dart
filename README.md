@@ -17,7 +17,7 @@ Este repositorio es mi espacio de estudio personal para aprender y practicar el 
 - Programación orientada a objetos (e.g. `classes-&-objects/`)
 - Funciones de alto orden, colecciones y tipos (e.g. `loops/`, `branches/`, `types/`)
 - Asincronía (e.g. `async/await`, `Future` y `Stream`)
-- Null safety y buenas prácticas (e.g `null-safety/`, `effective-dart/`)
+- Null safety y buenas prácticas (e.g. `null-safety/`, `effective-dart/`)
 - Carpeta: [`language/`](./language/)
 
 ### 🧪 Pruebas personales 
