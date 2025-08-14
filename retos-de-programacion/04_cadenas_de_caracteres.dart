@@ -155,7 +155,7 @@ void main() {
   print(text1.compareTo(text2));          // -1
   print(text1.compareTo(text3));          // 1 
 
-  /// 21. Otros métodos: `.compareTo()`:
+  /// 21. Otros métodos: `.lastIndexOf()`:
   print(text3.lastIndexOf('a'));          // 5
 
   /// 22. Otros métodos: `.matchAsPrefix()`:
