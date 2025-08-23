@@ -40,6 +40,13 @@ Este repositorio es mi espacio de estudio personal para aprender y practicar el 
 - Scripts experimentales importables
 - Carpeta: [`my-modules`](./my-modules/)
 
+### 🏗️ Estructuras de datos  
+- Patrones de desarrollo que te ayudarán a mejorar tu **lógica de programación**  
+
+- Implementaciones prácticas de estructuras como listas, pilas, colas, árboles, etc.  
+- Ejercicios para reforzar el pensamiento computacional  
+- Carpeta: [`data-structures/`](./data-structures/)  
+
 ## 🎯 Objetivos del repositorio
 
 - Consolidar mi conocimiento de **Dart** desde la base
