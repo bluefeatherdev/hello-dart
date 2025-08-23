@@ -41,7 +41,7 @@ Este repositorio es mi espacio de estudio personal para aprender y practicar el 
 - Carpeta: [`my-modules`](./my-modules/)
 
 ### 🏗️ Estructuras de datos  
-- Patrones de desarrollo que te ayudarán a mejorar tu **lógica de programación**  
+- Patrones de desarrollo me ayudarán a mejorar la **lógica de programación**  
 
 - Implementaciones prácticas de estructuras como listas, pilas, colas, árboles, etc.  
 - Ejercicios para reforzar el pensamiento computacional  
