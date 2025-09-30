@@ -54,4 +54,6 @@ Este repositorio es mi espacio de estudio personal para aprender y practicar el 
 - Prepararme para desarrollar con **Flutter** con mayor confianza
 - Aprender resolviendo problemas **reales** y aplicando lo aprendido
 
+> Este repositorio está licenciado bajo los términos de la [Licencia Apache 2.0](LICENSE).
+
 > Made with '\u{2665}' (♥) by Jesús Domínguez [@bluefeatherdev](https://github.com/bluefeatherdev/)
