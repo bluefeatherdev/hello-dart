@@ -32,7 +32,7 @@ This repository is my personal study space to learn and practice the **Dart** la
 - Solutions to exercises and challenges proposed by the **Spanish-speaking community** (by [mouredev](https://retosdeprogramacion.com/roadmap/))
 
 - Translated statements (if necessary) and my own explanations
-- Folder: [`retos-de-programacion/`](./retos-de-programacion/)
+- Folder: [`programming-challenges/`](./programming-challenges/)
 
 ### Experimental modules 
 - Classes and functions as interchangeable pieces
