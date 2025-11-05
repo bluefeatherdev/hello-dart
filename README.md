@@ -3,57 +3,55 @@
 ![Static Badge](https://img.shields.io/badge/language-dart-0175C2?style=for-the-badge&logo=dart&logoColor=white&labelColor=101010) 
 ![Static Badge](https://img.shields.io/badge/Scripting-bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white&labelColor=101010)
 
-Este repositorio es mi espacio de estudio personal para aprender y practicar el lenguaje **Dart**, paso a paso.
+This repository is my personal study space to learn and practice the **Dart** language, step by step.
 
 ![](./images/header_hello_dart.jpg)
 
-> Este repositorio está en constante crecimiento. Las carpetas se irán completando con ejemplos, notas y mejoras progresivamente.
+> This repository is licensed under the terms of the [Apache License 2.0](LICENSE).
 
-## 🔎 ¿Qué encontrarás?
+## What will you find here?
 
-### 🗂️ Aprendizaje estructurado  
+### Structured learning  
 
-- Sintaxis y estructuras básicas (e.g. `variables/`, `control-flow/`, `functions/`)
+- Basic syntax and structures (e.g. `variables/`, `control-flow/`, `functions/`)
 
-- Programación orientada a objetos (e.g. `classes-&-objects/`)
-- Funciones de alto orden, colecciones y tipos (e.g. `loops/`, `branches/`, `types/`)
-- Asincronía (e.g. `async/await`, `Future` y `Stream`)
-- Null safety y buenas prácticas (e.g. `null-safety/`, `effective-dart/`)
-- Carpeta: [`language/`](./language/)
+- Object-oriented programming (e.g. `classes-&-objects/`)
+- Higher-order functions, collections, and types (e.g. `loops/`, `branches/`, `types/`)
+- Asynchrony (e.g. `async/await`, `Future` and `Stream`)
+- Null safety and best practices (e.g. `null-safety/`, `effective-dart/`)
+- Folder: [`language/`](./language/)
 
-### 🧪 Pruebas personales 
-- Experimentación libre de conceptos nuevos
+### Personal tests 
+- Free experimentation with new concepts
 
-- Fragmentos de código útiles o curiosos
-- Anotaciones breves sobre comportamientos del lenguaje
-- Carpeta: [`playground/`](./playground/)
+- Useful or curious code snippets
+- Brief notes on language behaviors
+- Folder: [`playground/`](./playground/)
 
-### 🥇 Retos de programación 
-- Soluciones a ejercicios y retos propuestos por la **comunidad hispana** (by [mouredev](https://retosdeprogramacion.com/roadmap/))
+### Programming challenges 
+- Solutions to exercises and challenges proposed by the **Spanish-speaking community** (by [mouredev](https://retosdeprogramacion.com/roadmap/))
 
-- Enunciados traducidos (si es necesario) y explicaciones propias
-- Carpeta: [`retos-de-programacion/`](./retos-de-programacion/)
+- Translated statements (if necessary) and my own explanations
+- Folder: [`retos-de-programacion/`](./retos-de-programacion/)
 
-### 🔬 Módulos experimentales 
-- Clases y funciones como piezas intercambiables
+### Experimental modules 
+- Classes and functions as interchangeable pieces
 
-- Scripts experimentales importables
-- Carpeta: [`my-modules`](./my-modules/)
+- Importable experimental scripts
+- Folder: [`my-modules`](./my-modules/)
 
-### 🏗️ Estructuras de datos  
-- Patrones de desarrollo me ayudarán a mejorar la **lógica de programación**  
+### Data structures  
+- Development patterns will help me improve **programming logic**  
 
-- Implementaciones prácticas de estructuras como listas, pilas, colas, árboles, etc.  
-- Ejercicios para reforzar el pensamiento computacional  
-- Carpeta: [`data-structures/`](./data-structures/)  
+- Practical implementations of structures such as lists, stacks, queues, trees, etc.  
+- Exercises to strengthen computational thinking  
+- Folder: [`data-structures/`](./data-structures/)  
 
-## 🎯 Objetivos del repositorio
+## Repository goals
 
-- Consolidar mi conocimiento de **Dart** desde la base
+- Consolidate my knowledge of **Dart** from the ground up
 
-- Prepararme para desarrollar con **Flutter** con mayor confianza
-- Aprender resolviendo problemas **reales** y aplicando lo aprendido
-
-> Este repositorio está licenciado bajo los términos de la [Licencia Apache 2.0](LICENSE).
+- Prepare myself to develop with **Flutter** more confidently
+- Learn by solving **real** problems and applying what I’ve learned
 
 > Made with '\u{2665}' (♥) by Jesús Domínguez [@bluefeatherdev](https://github.com/bluefeatherdev/)
